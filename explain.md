@@ -1,0 +1,8 @@
+- [ ] LVM
+- [ ] aptitude vs apt
+- [ ] AppArmor
+- [ ] SSH
+- [ ] UFW
+- [ ] sudo
+- [ ] Strong password policy
+- [ ] cron/crontab
